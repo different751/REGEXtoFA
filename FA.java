@@ -1,5 +1,4 @@
 /*Name: Tyler Coy
- *Email: tyler.coy@wsu.edu
  *Date: 10-4-16
  *Class: CS317
  *Assignment: Project 1 regular expressions to nfa
